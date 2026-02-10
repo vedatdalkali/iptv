@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724095477307_FilmScreen.jpg" group-title="Genel",FilmSCREEN
+https://cdn-eu.tivimivi.com/streams/98/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724095533106_BRT-1.jpg" group-title="Cyprus",BRT 1
+https://cdn-eu.tivimivi.com/streams/104/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724095542174_BRT-2.jpg" group-title="Cyprus",BRT 2
+https://cdn-eu.tivimivi.com/streams/103/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1750164329538_KıbrısTV.jpg" group-title="Cyprus",Kıbrıs TV HD
+https://cdn-eu.tivimivi.com/streams/150/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096006362_Sim-TV.jpg" group-title="Cyprus",Kanal Sim HD
+https://cdn-eu.tivimivi.com/streams/142/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096029477_Genc-TV.jpg" group-title="Cyprus",Genç TV
+https://cdn-eu.tivimivi.com/streams/144/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096039487_Kanal-T.jpg" group-title="Cyprus",Kanal T
+https://cdn-eu.tivimivi.com/streams//master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096053572_Ada-TV.jpg" group-title="Cyprus",Ada TV
+https://cdn-eu.tivimivi.com/streams//master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096072211_Show-TV.jpg" group-title="Turkey",SHOW
+https://cdn-eu.tivimivi.com/streams/109/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096081490_TRT-1.jpg" group-title="Turkey",TRT 1
+https://cdn-eu.tivimivi.com/streams/153/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096090774_Kanal-D.jpg" group-title="Turkey",KANAL D
+https://cdn-eu.tivimivi.com/streams/113/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096099209_ATV.jpg" group-title="Turkey",ATV
+https://cdn-eu.tivimivi.com/streams/121/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096109639_NOW.jpg" group-title="Turkey",NOW
+https://cdn-eu.tivimivi.com/streams/108/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096119020_Star-TV.jpg" group-title="Turkey",STAR
+https://cdn-eu.tivimivi.com/streams/118/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096128670_TV-8.jpg" group-title="Turkey",TV8
+https://cdn-eu.tivimivi.com/streams/107/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096135976_CNBC-E.jpg" group-title="News",CNBC-E
+https://cdn-eu.tivimivi.com/streams/120/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096174898_TLC.jpg" group-title="Documentary",TLC
+https://cdn-eu.tivimivi.com/streams/115/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096151339_TV-8,5.jpg" group-title="Sports",TV 8,5
+https://cdn-eu.tivimivi.com/streams//master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096160516_DMAX.jpg" group-title="Documentary",DMAX
+https://cdn-eu.tivimivi.com/streams/119/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096167580_Show-Max.jpg" group-title="Turkey",SHOW MAX
+https://cdn-eu.tivimivi.com/streams/112/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096185923_TV-100.jpg" group-title="News",TV100
+https://cdn-eu.tivimivi.com/streams/116/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096143695_Bloomberg-HT.jpg" group-title="News",Bloomberg HT
+https://cdn-eu.tivimivi.com/streams/111/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096195161_NTV.jpg" group-title="News",NTV
+https://cdn-eu.tivimivi.com/streams/128/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096206858_CNN-Turk.jpg" group-title="News",CNN Türk
+https://cdn-eu.tivimivi.com/streams/114/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096214046_A-Haber.jpg" group-title="News",A Haber
+https://cdn-eu.tivimivi.com/streams/123/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096223708_Haber-Turk.jpg" group-title="News",Haber Türk
+https://cdn-eu.tivimivi.com/streams/110/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096231165_TRT-Haber.jpg" group-title="News",TRT Haber
+https://cdn-eu.tivimivi.com/streams//master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096242355_Haber-Global.jpg" group-title="News",Haber Global
+https://cdn-eu.tivimivi.com/streams/140/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1760475954181_Halk-TV.jpg" group-title="News",Halk TV
+https://cdn-eu.tivimivi.com/streams/103/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096259829_SZC-TV.jpg" group-title="News",SZC TV
+https://cdn-eu.tivimivi.com/streams/117/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1760958298087_GZT-TV.jpg" group-title="Documentary",GZT HT
+https://cdn-eu.tivimivi.com/streams/139/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1760475671622_HT-Spor.jpg" group-title="Sports",HT Spor
+https://cdn-eu.tivimivi.com/streams/140/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1760957506180_Cosmo-Sports.jpg" group-title="Sports",Cosmo Sports
+https://cdn-eu.tivimivi.com/streams/152/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096475650_Sports-TV.jpg" group-title="Sports",Sports TV
+https://cdn-eu.tivimivi.com/streams/139/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096507504_TRT-Spor.jpg" group-title="Sports",TRT Spor
+https://cdn-eu.tivimivi.com/streams//master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1743877307606_TRT-SPOR_YILDIZ.jpg" group-title="Sports",TRT Spor Yıldız
+https://cdn-eu.tivimivi.com/streams//master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096516888_A-Spor.jpg" group-title="Sports",A Spor
+https://cdn-eu.tivimivi.com/streams/122/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096529228_Enerji.jpg" group-title="Music",Enerji 93.1 HD
+https://cdn-eu.tivimivi.com/streams/136/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096541153_Enerji-Slow.jpg" group-title="Music",Enerji Slow
+https://cdn-eu.tivimivi.com/streams/154/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096548453_Dance-FM.jpg" group-title="Music",Dance FM HD
+https://cdn-eu.tivimivi.com/streams/135/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096572134_Code-Fashion.jpg" group-title="World",Code Fashion
+https://cdn-eu.tivimivi.com/streams//master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096564699_Fashion-TV.jpg" group-title="Genel",Fashion TV
+https://cdn-eu.tivimivi.com/streams/104/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1761043483448_BBC-News.jpg" group-title="World",BBC News
+https://cdn-eu.tivimivi.com/streams/105/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1760957432807_Imedi-TV.jpg" group-title="World",Imedi TV
+https://cdn-eu.tivimivi.com/streams//master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1760957420146_Aljazeera.jpg" group-title="World",Al Jazeera
+https://cdn-eu.tivimivi.com/streams//master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096598387_NHK-World-TV.jpg" group-title="World",NHK World
+https://cdn-eu.tivimivi.com/streams/157/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096581767_TRT-Belgesel.jpg" group-title="Documentary",TRT Belgesel
+https://cdn-eu.tivimivi.com/streams//master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724095489493_DocuScreen.jpg" group-title="Documentary",DocuSCREEN
+https://cdn-eu.tivimivi.com/streams/101/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096608539_TRT-Cocuk.jpg" group-title="Kids",TRT Çocuk
+https://cdn-eu.tivimivi.com/streams//master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1761241656272_Azoomee.jpg" group-title="Kids",Azoomee
+https://cdn-eu.tivimivi.com/streams/102/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1761040752997_Cartoon-Network.jpg" group-title="Kids",Cartoon Network
+https://cdn-eu.tivimivi.com/streams/151/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096629720_Minika-GO.jpg" group-title="Kids",MinikaGO
+https://cdn-eu.tivimivi.com/streams/127/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096638650_Minika-Çocuk.jpg" group-title="Kids",minikaÇOCUK
+https://cdn-eu.tivimivi.com/streams/130/master.m3u8
